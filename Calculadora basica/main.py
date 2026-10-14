@@ -1,0 +1,1 @@
+# vou criar uma calculadora básica usando oque eu aprendi a um tempo atrás, nao lembro de muita coisa
